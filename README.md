@@ -15,3 +15,7 @@ In this repositoy, I will make some notes on the introductory on NLP to Bert.
   - Transformer
 - Bert
 - Conclusion
+
+
+## Resources
+- [從自然語言處理到文字探勘](https://www.slideshare.net/YiShinChen1/ss-104503736)：Comprehensive introduction from NLP to text mining.
