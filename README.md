@@ -6,9 +6,13 @@ In this repositoy, I will make some notes on the introductory on NLP to Bert.
 
 - Introduction to NLP
   - Tradition NLP (WordNet / one-hot encoding)
-- Basic NLP application
+  - lexical analysis
+  - Syntactic analysis
+  - Semantic analysis
 - Basic NLP
-  - TF-IDF
+  - tf-idf
+  - bag-of-word (BoW)
+  - limitation of BoW
 - Deep NLP
   - Word2Vec
   - Sequence-to-sequence
