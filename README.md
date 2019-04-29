@@ -5,6 +5,7 @@ In this repositoy, I will make some notes on the introductory on NLP to Bert.
 ## Agenda
 
 - Introduction to NLP
+  - Tradition NLP (WordNet / one-hot encoding)
 - Basic NLP application
 - Basic NLP
   - TF-IDF
