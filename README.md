@@ -12,9 +12,11 @@ In this repositoy, I will make some notes on the introductory on NLP to Bert.
 - Basic NLP
   - tf-idf
   - bag-of-word (BoW)
-  - limitation of BoW
+  - n-gram language model
+  - limitation of BoW and n-gram language model
 - Deep NLP
   - Word2Vec
+  - RNN
   - Sequence-to-sequence
   - Attention Model
   - Transformer
