@@ -33,3 +33,4 @@ In this repositoy, I will make some notes on the introductory on NLP to Bert.
   - [Machine Translation, Sequence-to-sequence and Attention](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture08-nmt.pdf)
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)：The original paper about Word2Vec proposed by Tomas Mikolov. 
 - [Seq2seq pay Attention to Self Attention](https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-1-%E4%B8%AD%E6%96%87%E7%89%88-2714bbd92727)
+- [矢量語義——從TF-IDF到Word2Vec你所需要知道的一切](https://blog.csdn.net/stupid_3/article/details/83184807)：Nice illustration about Word2Vec
