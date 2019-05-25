@@ -21,6 +21,8 @@ In this repositoy, I will make some notes on the introductory on NLP to Bert.
   - Attention Model
   - Transformer
 - Bert
+  - Bert introduction
+  - Bert on our work
 - Conclusion
 
 
