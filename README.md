@@ -23,7 +23,8 @@ In this repositoy, I will make some notes on the introductory from NLP to Bert.
     - Transformer is a seq-to-seq model with self-attention layer
     - 用來改良 RNN 不容易平行化的缺點
     - 基本上原本用 RNN 的架構，都可以換成 self-attention 的 layer 來取代
-    - 
+    - 在 self-attention 的原本機制中，沒有位置 (position) 的資訊
+      - 引入 positional encoding 機制：每一個 input vector 都會 append 上一個位置資訊的 vector，接著做 self-attention
 - Bert
   - Bert introduction
   - Bert on our work
