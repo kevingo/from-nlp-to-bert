@@ -21,6 +21,8 @@ In this repositoy, I will make some notes on the introductory from NLP to Bert.
   - Attention Model
   - Transformer (self-attention)
     - Transformer is a seq-to-seq model with self-attention layer
+    - 用來改良 RNN 不容易平行化的缺點
+    - 基本上原本用 RNN 的架構，都可以換成 self-attention 的 layer 來取代
     - 
 - Bert
   - Bert introduction
