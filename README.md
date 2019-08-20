@@ -19,7 +19,9 @@ In this repositoy, I will make some notes on the introductory from NLP to Bert.
   - RNN
   - Sequence-to-sequence
   - Attention Model
-  - Transformer
+  - Transformer (self-attention)
+    - Transformer is a seq-to-seq model with self-attention layer
+    - 
 - Bert
   - Bert introduction
   - Bert on our work
@@ -35,3 +37,4 @@ In this repositoy, I will make some notes on the introductory from NLP to Bert.
 - [Seq2seq pay Attention to Self Attention](https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-1-%E4%B8%AD%E6%96%87%E7%89%88-2714bbd92727)
 - [矢量語義——從TF-IDF到Word2Vec你所需要知道的一切](https://blog.csdn.net/stupid_3/article/details/83184807)：Nice illustration about Word2Vec
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
+- [Transformer by 李宏毅](https://www.youtube.com/watch?v=ugWDIIOHtPA)
