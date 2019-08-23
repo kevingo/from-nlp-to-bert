@@ -27,6 +27,10 @@ In this repositoy, I will make some notes on the introductory from NLP to Bert.
       - 引入 positional encoding 機制：每一個 input vector 都會 append 上一個位置資訊的 vector，接著做 self-attention
 - Bert
   - Bert introduction
+    - Encoder of transformer
+  - 訓練 Bert 的方法
+    - Approach 1：Masked LM
+    - Approach 2：Next sentence prediction
   - Bert on our work
 - Conclusion
 
